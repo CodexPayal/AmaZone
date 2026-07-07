@@ -37,7 +37,7 @@ Amazon's homepage looks simple at first glance, but it's made up of dozens of in
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](#) 
+🔗 [https://ama-zone-mrn5.vercel.app/](#) 
 
 ---
 
